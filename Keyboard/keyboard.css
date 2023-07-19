@@ -1,0 +1,230 @@
+.container{
+    display: flex;
+    justify-content: center;
+
+}
+.row1{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 27px;
+    width: 55px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    
+}
+.row2{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 35px;
+    width: 45px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.Backspace{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 35px;
+    width: 80px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.Design{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 15px;
+    width: 60px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(4, 0, 255);
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.container3{
+    display: flex;
+    justify-content: center;
+}
+.row3{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 35px;
+    width: 45px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.Enter{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 40px;
+    width: 70px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.Delete{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 40px;
+    width: 70px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.container4{
+    display: flex;
+    justify-content: center;
+}
+.row4{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 35px;
+    width: 45px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    
+}
+.plus{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 35px;
+    width: 45px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.container5{
+    display: flex;
+    justify-content: center;
+}
+.row5{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 35px;
+    width: 45px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.shift1{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 35px;
+    width: 75px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.cap{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 35px;
+    width: 60px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.shift2{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 35px;
+    width: 95px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.container6{
+    display: flex;
+    justify-content: center;
+}
+.row6{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 35px;
+    width: 45px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.space{
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 35px;
+    width: 300px;
+    border-radius: 4px;
+    margin: 5px;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.h1{
+    padding:10px;
+    margin:10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.all{
+    background-color: rgb(174, 194, 250);
+    padding: 30px;
+    margin: 10px;
+    border-radius: 15px;
+}
+#zoo{
+    font-size: 20px;
+}
+#zoo:hover{
+    background-color: rgb(255, 255, 255);
+}
